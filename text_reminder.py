@@ -4,6 +4,7 @@ import os
 
 from write_startup import add_to_startup
 
-add_to_startup()
+#? Adds script to windows startup
+#add_to_startup()
 
-os.system('start cmd')
+#os.system('start cmd')
